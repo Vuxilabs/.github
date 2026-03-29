@@ -1,6 +1,6 @@
 # VuxiLabs
 
-> ![PERHATIAN]
+>[!CAUTION]
 >
 > Klarifikasi: Di miliki Oleh Badan Usaha Terbatas [@nlfts](https://github.com/nlfts) tetapi sama sekali tidak terkait terhadap kebijakan di dalam perusahaan, kami hanya berbagi konsep `terpadu`, tidak lebih dari itu.
 
